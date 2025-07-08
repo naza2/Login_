@@ -9,13 +9,13 @@
 ## USO
 ### Registro:
 
-- Navega a la página de registro (registrar.html).
+- Navega a la página de registro.
 - Completa el formulario con tu nombre, apellido, dirección de correo electrónico y contraseña.
 - Haz clic en "Registrarse". Si el registro es exitoso, serás redirigido a la página de inicio de sesión.
 
 ### Inicio de Sesión:
 
-- Navega a la página de inicio de sesión (index.html).
+- Navega a la página de inicio de sesión.
 - Ingresa tu dirección de correo electrónico y contraseña.
 - Haz clic en "Iniciar Sesión". Si las credenciales son correctas, recibirás un mensaje de éxito.
 
